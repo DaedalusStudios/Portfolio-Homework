@@ -2,6 +2,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
 
+![alt text](https://github.com/DaedalusStudios/Portfolio-Homework/blob/main/img.PNG)
+
 ## User Story
 ```
 AS AN employer looking for candidates with experience building single-page applications
